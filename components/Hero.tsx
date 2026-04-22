@@ -60,7 +60,7 @@ export default function Hero() {
           className="text-[clamp(2rem,5.5vw,4.5rem)] leading-none text-white"
           style={{ fontFamily: "var(--font-display)", fontWeight: 800, letterSpacing: "-0.03em" }}
         >
-          MOMO <span className="gold-gradient-text" style={{ fontWeight: 400 }}>HAMZA GÜNEŞ</span>
+          MOMO <span className="gold-gradient-text" style={{ fontWeight: 400 }}>HAMZA GUNES</span>
         </motion.h1>
 
         <motion.div

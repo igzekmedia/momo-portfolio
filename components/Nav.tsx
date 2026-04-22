@@ -63,9 +63,9 @@ export default function Nav() {
           onClick={(e) => { e.preventDefault(); handleLink("#hero"); }}
           className="text-[var(--text)] cursor-pointer"
           style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: "1.1rem", letterSpacing: "-0.02em" }}
-          aria-label="Hamza Güneş — home"
+          aria-label="Gunes Tattoos — home"
         >
-          GÜNEŞ
+          GUNES TATTOOS
         </a>
 
         {/* Desktop Nav */}
