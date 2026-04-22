@@ -17,7 +17,7 @@ export default function Hero() {
       {/* Mobile background — photo */}
       <div className="absolute inset-0 block md:hidden">
         <Image
-          src="/Momo-Mobile-Hero.png"
+          src="/Momo-Mobile-Hero-1.png"
           alt="Hamza Güneş tattooing"
           fill
           priority
