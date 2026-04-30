@@ -170,7 +170,7 @@ export default function Portfolio() {
           className="mt-16 text-center"
         >
           <a
-            href="https://www.instagram.com/"
+            href="https://www.instagram.com/gunes.ink/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 text-[11px] tracking-[0.25em] uppercase text-[var(--muted)] hover:text-[var(--gold)] transition-colors duration-300 cursor-pointer"

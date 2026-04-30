@@ -50,7 +50,7 @@ export default function Footer() {
               Facebook
             </a>
             <a
-              href="mailto:gunes.ink@gmail.com"
+              href="mailto:info@gunestattoo.com"
               className="flex items-center gap-2 text-[11px] tracking-[0.15em] uppercase text-[var(--muted)] hover:text-[var(--gold)] transition-colors duration-300 cursor-pointer"
             >
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
