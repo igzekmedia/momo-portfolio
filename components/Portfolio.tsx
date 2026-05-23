@@ -25,14 +25,16 @@ const works: {
   { id: 9, src: "/portfolio/9.png", category: "black-and-grey", w: 1350, h: 1920 },
   { id: 10, src: "/portfolio/10.png", category: "black-and-grey", w: 1350, h: 1920 },
   { id: 11, src: "/portfolio/11.png", category: "black-and-grey", w: 1350, h: 1920 },
-  { id: 12, src: "/portfolio/12.png", category: "black-and-grey", w: 1350, h: 1920 },
+  { id: 28, src: "/portfolio/28.png", category: "black-and-grey", w: 1350, h: 1920 },
   { id: 14, src: "/portfolio/14.png", category: "black-and-grey", w: 1350, h: 1920 },
   { id: 15, src: "/portfolio/15.png", category: "black-and-grey", w: 1350, h: 1920 },
   { id: 20, src: "/portfolio/20.png", category: "black-and-grey", w: 1350, h: 1920 },
   { id: 21, src: "/portfolio/21.png", category: "black-and-grey", w: 1350, h: 1920 },
-  { id: 24, src: "/portfolio/24.png", category: "black-and-grey", w: 1350, h: 1920 },
+  { id: 27, src: "/portfolio/27.png", category: "black-and-grey", w: 1350, h: 1920 },
   { id: 25, src: "/portfolio/25.png", category: "black-and-grey", w: 1350, h: 1920 },
   { id: 26, src: "/portfolio/26.png", category: "black-and-grey", w: 1350, h: 1920 },
+  { id: 29, src: "/portfolio/29.png", category: "black-and-grey", w: 1350, h: 1920 },
+  { id: 30, src: "/portfolio/30.png", category: "black-and-grey", w: 1350, h: 1920 },
 ];
 
 const CATEGORY_LABELS: Record<string, string> = {
