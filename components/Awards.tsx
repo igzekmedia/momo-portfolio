@@ -22,7 +22,7 @@ const entries: {
   }[];
 }[] = [
   {
-    images: [{ src: "/awards/Villain Arts Chicago Tattoo Arts Festival 2026/24.png", w: 1350, h: 1920 }],
+    images: [{ src: "/awards/Villain Arts Chicago Tattoo Arts Festival 2026/27.png", w: 1350, h: 1920 }],
     piece: "Warrior Woman",
     convention: "Villain Arts 15th Chicago Tattoo Arts Festival",
     year: "2026",
